@@ -112,7 +112,7 @@ https://github.com/charlesXu86/PAPER-In-CODE
 
 #### 博客 ：https://blog.csdn.net/Q_S_Y_Q
 
-#### QQ群： 718607564 (聊天机器人开发实战)
+#### QQ群： [聊天机器人开发实战](点击链接加入群聊【聊天机器人开发实战】：https://jq.qq.com/?_wv=1027&k=5ypCd1S) (718607564)
 
 #### 说明
 持续更新中。。。
