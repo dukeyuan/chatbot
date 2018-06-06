@@ -107,6 +107,9 @@ chatbot
   - **Knowledge Graph**
   - **output**
 
+#### 有关paper代码复现请关注另一个开源项目：
+https://github.com/charlesXu86/PAPER-In-CODE
+
 #### 博客 ：https://blog.csdn.net/Q_S_Y_Q
 
 #### QQ群： 718607564 (聊天机器人开发实战)
