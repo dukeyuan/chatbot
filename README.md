@@ -67,7 +67,7 @@ chatbot
 │   │   │   ├───relation extraction
 │   │   │   └───terminology extraction
 │   │   ├───Intent Detection
-│   │   ├───kg
+│   │   ├───kg    知识图谱
 │   │   ├───KG Embeddings
 │   │   ├───Knowledge Base Completion
 │   │   ├───mulDialogue
@@ -78,7 +78,7 @@ chatbot
 │   │   ├───Pinyin2Chinese
 │   │   ├───QA
 │   │   ├───Representation-Learning
-│   │   ├───RL
+│   │   ├───RL           强化学习
 │   │   ├───RL In Dialogue
 │   │   ├───Semantic Parsing
 │   │   ├───Semantic Role Labeling
@@ -101,11 +101,11 @@ chatbot
 
 #### 项目主要目录功能说明
   - **Chatbot** ： 主要功能实现目录
-  - **data**
+  - **data**  数据文件
   - **docs** ： 文档目录
-  - **example**
-  - **Knowledge Graph**
-  - **output**
+  - **example** 案例
+  - **Knowledge Graph** 知识图谱
+  - **output** 输出文件
 
 #### 有关paper代码复现请关注另一个开源项目：
 https://github.com/charlesXu86/PAPER-In-CODE
