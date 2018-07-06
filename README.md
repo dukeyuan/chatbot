@@ -114,6 +114,8 @@ https://github.com/charlesXu86/PAPER-In-CODE
 
 #### QQ群： [聊天机器人开发实战](点击链接加入群聊【聊天机器人开发实战】：https://jq.qq.com/?_wv=1027&k=5ypCd1S) (718607564)
 
+#### 微信公众号： 聊天机器人开发实战
+
 #### 说明
 持续更新中。。。
      
