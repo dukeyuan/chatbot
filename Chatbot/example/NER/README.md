@@ -60,3 +60,11 @@ State-of-the-art model on SIGHAN2006 NER task.
 8. [Named Entity Recognition with Bidirectional LSTM-CNNs](http://xueshu.baidu.com/s?wd=paperuri%3A%28995499661ccaa95ca3688318f4bc594b%29&filter=sc_long_sign&tn=SE_xueshusource_2kduw22v&sc_vurl=http%3A%2F%2Farxiv.org%2Fabs%2F1511.08308&ie=utf-8&sc_us=14130444594064699095).  
 Method to apply lexicon features.
 
+## References
+[1] Bidirectional LSTM-CRF Models for Sequence Tagging
+
+[2] Neural Architectures for Named Entity Recognition
+
+[3] Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition
+
+[4] https://github.com/guillaumegenthial/sequence_tagging
