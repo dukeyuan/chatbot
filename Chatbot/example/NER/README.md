@@ -69,4 +69,4 @@ Method to apply lexicon features.
 
 [4] https://github.com/guillaumegenthial/sequence_tagging
 
-[5]
+[5] https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html
