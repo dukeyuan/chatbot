@@ -1,14 +1,12 @@
 ## Recurrent neural networks for Chinese named entity recognition in TensorFlow
-This repository contains a simple demo for chainese named entity recognition.
+This repository contains a simple demo for chinese named entity recognition.
 
 ## Contributer
-- [Jingyuan Zhang](https://github.com/zjy-ucas)
-- [Mingjie Chen](https://github.com/superthierry)
 - some data processing codes from [glample/tagger](https://github.com/glample/tagger)
 
 
 ## Requirements
-- [Tensorflow=1.2.0](https://github.com/tensorflow/tensorflow)
+- [Tensorflow=1.9](https://github.com/tensorflow/tensorflow)
 - [jieba=0.37](https://github.com/fxsjy/jieba)
 
 
@@ -17,7 +15,8 @@ The model is a birectional LSTM neural network with a CRF layer. Sequence of chi
 
 Our model is similar to the state-of-the-art Chinese named entity recognition model proposed in Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition.
 
-## Basic Usage
+## File Introduction
+- data_utils.py  preprocessing data
 
 ### Default parameters:
 - batch size: 20
