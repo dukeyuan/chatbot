@@ -68,3 +68,5 @@ Method to apply lexicon features.
 [3] Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition
 
 [4] https://github.com/guillaumegenthial/sequence_tagging
+
+[5]
