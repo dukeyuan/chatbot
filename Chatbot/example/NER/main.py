@@ -1,4 +1,10 @@
-# encoding=utf8
+#-*- coding:utf-8 _*-
+"""
+@author:charlesXu
+@file: data_utils.py
+@desc: NER主函数
+@time: 2018/07/08
+"""
 
 
 import codecs
