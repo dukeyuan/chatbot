@@ -7,7 +7,6 @@
 """
 
 
-import codecs
 import pickle
 import itertools
 from collections import OrderedDict
