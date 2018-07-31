@@ -9,6 +9,7 @@
 
 import pickle
 import itertools
+import os
 from collections import OrderedDict
 
 import tensorflow as tf
@@ -21,7 +22,6 @@ from utils import get_logger, make_path, clean, create_model, save_model
 from utils import print_config, save_config, load_config, test_ner
 from data_utils import load_word2vec, create_input, input_from_line, BatchManager
 
-import os
 file_path = os.path.dirname(os.path.abspath(__file__))
 data_dir = os.path.join(file_path, "source")
 train_dir = os.path.join(data_dir, "train.txt")
